@@ -1,6 +1,6 @@
 
 import { Code2, Rocket, Users, Award } from 'lucide-react';
-import photo from "../../dist/assets/jedi.png";
+import photo from "../assets/jedi.png";
 
 const About = () => {
   const stats = [
