@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ExternalLink, Github, Filter } from 'lucide-react';
-import bafa from "../../dist/assets/bafa.png";
+import bafa from "../assets/bafa.png";
 
 
 const Projects = () => {
